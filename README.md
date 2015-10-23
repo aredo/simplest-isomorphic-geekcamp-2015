@@ -1,5 +1,5 @@
-Isomorphic JavaScript Demo NDC
-------------------------------
+Isomorphic JavaScript Geekcamp 2015
+-----------------------------------
 
 Register on vimeo and create an application to get a `CLIENT_ID`, `CLIENT_SECRET` and `ACCESS_TOKEN`.
 
